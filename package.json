@@ -17,11 +17,13 @@
 		"helmet": "^4.4.1",
 		"mocha": "^3.2.0",
 		"mongoose": "^5.12.1",
-		"node-fetch": "^2.6.1"
+		"node-fetch": "^2.6.1",
+		"growl": ">=1.10.0"
+
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/freeCodeCamp/boilerplate-project-stockchecker"
+		"url": "https://github.com/diogojorgebasso/stockchecer"
 	},
 	"keywords": [
 		"node",
